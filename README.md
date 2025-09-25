@@ -1,35 +1,29 @@
 
 # Hi there, I'm Vibhanshu Soni 👋
 
-🚀 A passionate Android & full-stack app developer with a strong foundation in Java, Kotlin, and clean architecture principles.  
-💡 I love building scalable, intuitive apps and exploring new technologies that solve real-world problems.
+🚀 A passionate full-stack app developer with a strong foundation in Java,spring, hibernate and clean architecture principles.  
+💡 I love building scalable, intuitive application and exploring new technologies that solve real-world problems.
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Java, Kotlin, C++, SQL  
+- **Languages:** Java, SQL  
 - **Frameworks/Stack:** Java Full-Stack (Spring Boot basics, REST APIs, MySQL)
-- **Mobile:** Android (Jetpack Compose, MVVM, XML, LiveData, ViewModel)  
-- **Backend:** Firebase (Auth, Firestore, Realtime DB, Cloud Storage), REST APIs  
-- **Tools:** Android Studio, Git, Postman, GitHub  
-- **Architecture:** MVVM, Clean Architecture  
+- **Tools:** IntelliJ, Git, Postman, GitHub, Visual studio,Kubernetes, Docker, Jira, Linux shell scripting,AWS DevOps
+- **Concurrency:** Multithreading (Thread Pools, Synchronization, Locks), Concurrent programming (Java.util.concurrent)
+- **Testing:** TDD, Unit Testing (JUnit, Mockito), Integration Testing
+- **Architecture:** MVVM, Clean Architecture,MVC  
 - **Development:** Agile (Scrum), SDLC
 
 ---
 
 ## 💼 Projects
 
-### 🌱 [Pro Planet Person](https://github.com/your-project-link)
+### 🌱 [Pro Planet Person](https://github.com/Vibhanshusoni/ProPlanetPerson.git)
 Instagram-style eco feed app with real-time likes/comments, seller-buyer role system, Google Sign-In, Firebase integration.
 
-### 🚭 [OCLUDE – Addiction Management App](https://github.com/your-project-link)
-Helps users manage habits with goal tracking, notifications, and user insights.
-
-### 🌍 [Eco-Friendly Bottle Initiative](https://github.com/your-project-link)
-RESTful Android app promoting sustainable products and conscious shopping.
-
-### 🏥 [HealthTech Innovations](https://github.com/your-project-link)
-App for offline access to health records and prescriptions.
+### 🌱 [EcoRoute Planner | Java, Google Maps API] (https://github.com/Vibhanshusoni/EcoRoutePlannerBackend.git)
+•	Developed REST APIs integrating Google Maps API for eco-friendly navigation, reducing route computation time by 30%.
 
 ---
 
@@ -40,8 +34,8 @@ App for offline access to health records and prescriptions.
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [vibhanshusoni98@gmail.com](mailto:vibhanshusoni98@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vibhanshu-soni-6643ba221)
+- 📧 Email: [vibhanshusoni98@gmail.com](mailto:vibhanshusoniofficial@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vibhanshusoni98/)
 
 ---
 
