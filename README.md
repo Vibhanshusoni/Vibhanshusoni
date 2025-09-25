@@ -22,7 +22,7 @@
 ### 🌱 [Pro Planet Person](https://github.com/Vibhanshusoni/ProPlanetPerson.git)
 Instagram-style eco feed app with real-time likes/comments, seller-buyer role system, Google Sign-In, Firebase integration.
 
-### 🌱 [EcoRoute Planner | Java, Google Maps API] (https://github.com/Vibhanshusoni/EcoRoutePlannerBackend.git)
+### 🌱 [EcoRoute Planner](https://github.com/Vibhanshusoni/EcoRoutePlannerBackend.git)
 •	Developed REST APIs integrating Google Maps API for eco-friendly navigation, reducing route computation time by 30%.
 
 ---
