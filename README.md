@@ -1,5 +1,4 @@
-<!-- Animated Header -->
-<!-- Animated Header -->
+<!-- 🌟 Animated Header -->
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Vibhanshu Soni</span> 👋</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | Spring Boot | Clean Architecture Enthusiast</h3>
 
@@ -7,7 +6,7 @@
 <p align="center">&nbsp;</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=480&lines=Building+scalable+apps+with+Java+%26+Spring+Boot;Exploring+new+tech+every+day;Writing+clean+%26+maintainable+code;Code+with+purpose%2C+Build+for+impact!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+scalable+apps+with+Java+%26+Spring+Boot;Exploring+new+tech+every+day;Writing+clean+%26+maintainable+code;Code+with+purpose%2C+Build+for+impact!"/>
 </p>
 
 ---
@@ -22,15 +21,23 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|-----------|---------------|
-| **Languages** | Java, SQL |
-| **Frameworks/Stack** | Spring Boot, REST APIs, MySQL |
-| **Tools** | IntelliJ IDEA, Git, Postman, Visual Studio, Docker, Kubernetes, Jira, Linux, AWS |
-| **Concurrency** | Thread Pools, Synchronization, Locks, java.util.concurrent |
-| **Testing** | TDD, JUnit, Mockito, Integration Testing |
-| **Architecture** | MVVM, Clean Architecture, MVC |
-| **Development Methodology** | Agile (Scrum), SDLC |
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,kubernetes,linux,aws" />
+</p>
+
+### ⚙️ Additional Skills
+<p align="center">
+  <b>Testing:</b> JUnit, Mockito &nbsp;|&nbsp;
+  <b>Concurrency:</b> Thread Pools, Synchronization, Locks &nbsp;|&nbsp;
+  <b>Architecture:</b> MVVM, MVC, Clean Architecture &nbsp;|&nbsp;
+  <b>Methodology:</b> Agile (Scrum), SDLC
+</p>
 
 ---
 
