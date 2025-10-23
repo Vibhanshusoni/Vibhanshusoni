@@ -1,12 +1,12 @@
-
+<!-- Animated Header -->
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Vibhanshu Soni</span> 👋</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | Spring Boot | Clean Architecture Enthusiast</h3>
 
-<br>
+<br><br>
 
-<p align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=480&lines=Building+scalable+apps+with+Java+%26+Spring+Boot;Exploring+new+tech+every+day;Writing+clean+%26+maintainable+code;Code+with+purpose%2C+Build+for+impact!"/>
-</p>
+</div>
 
 ---
 
