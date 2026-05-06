@@ -61,12 +61,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vibhanshusoni&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats-m6lc4be5p-vibhanshusonis-projects.vercel.app/api?username=Vibhanshusoni&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhanshusoni&layout=compact&theme=tokyonight" height="165em" />
+  <img src="https://github-readme-stats-m6lc4be5p-vibhanshusonis-projects.vercel.app/api/top-langs/?username=Vibhanshusoni&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
 </p>
 
 ---
