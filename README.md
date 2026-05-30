@@ -43,12 +43,30 @@
 ---
 
 ## 💼 Projects  
+### 🏫 [College Management System](https://github.com/Vibhanshusoni/CollegeManagementSystem)
+> **Tech Stack:** Java, Spring Boot, Spring Security, Spring Cloud, Eureka, OpenFeign, JWT, MySQL, Liquibase, Swagger, Docker, Maven
+* Built a complete microservices-based backend system managing domain services for authentication, users, courses, faculty, students, attendance, library, departments, and dashboards.
+* Implemented secure REST APIs with JWT authentication, API Gateway routing, Eureka service discovery, and OpenFeign inter-service communication[cite: 1].
+* Designed clean backend operations with centralized exception handling, standardized responses, validation, soft deletes, and transactional integrity[cite: 1].
 
+### 🔄 [User-Product Microservices System](https://github.com/Vibhanshusoni/User-Product-Microservices)
+> **Tech Stack:** Java 8, Spring Boot, Spring Cloud, Eureka, Gateway, JWT, MySQL[cite: 1]
+* Engineered a distributed microservices ecosystem utilizing Eureka Service Discovery and API Gateway for decoupled backend operations[cite: 1].
+* Developed an authentication service featuring JWT validation, OTP verification, and secure password-reset logic across services[cite: 1].
+* Managed a monorepo structure spanning 5 separate services to maximize registration efficiency and optimize routing workflows[cite: 1].
+
+### 🔐 [Employee Management System Secure Backend API](https://github.com/Vibhanshusoni/Employee-Management-System)
+> **Tech Stack:** Java, Spring Boot, Spring Security, JWT, OAuth2, MySQL[cite: 1]
+* Designed a role-based access control backend to securely manage employee profiles and company user accounts[cite: 1].
+* Implemented industry-standard token architectures: JWT authentication, refresh token rotation, secure logouts, token blacklisting, and OAuth2 social logins (Google/GitHub)[cite: 1].
+* Exposed production-ready CRUD endpoints and admin dashboards integrated with globally handled system exceptions[cite: 1].
+
+### 🚗 [EcoRoute Planner Backend System](https://github.com/Vibhanshusoni/EcoRoutePlannerBackend)
+> **Tech Stack:** Java, Spring Boot, Spring Security, Google Maps API, MySQL[cite: 1]
+* Formulated robust REST APIs incorporating Google Maps API for optimized route logic and stable response mapping[cite: 1].
+* Applied DTO design patterns and structured layered architecture to maximize API validation constraints and testing capabilities[cite: 1].
 ### 🌍 [Pro Planet Person](https://github.com/Vibhanshusoni/ProPlanetPerson)
 > 🌱 Instagram-style eco app with Firebase backend, Google Authentication, and an eco-leaderboard system promoting sustainable living.
-
-### 🚗 [EcoRoute Planner](https://github.com/Vibhanshusoni/EcoRoutePlannerBackend)
-> 🗺️ Developed REST APIs integrating Google Maps API for eco-friendly navigation — reducing route computation time by 30%.
 
 ---
 
