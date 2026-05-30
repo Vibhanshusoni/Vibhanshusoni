@@ -66,7 +66,9 @@
 * Formulated robust REST APIs incorporating Google Maps API for optimized route logic and stable response mapping[cite: 1].
 * Applied DTO design patterns and structured layered architecture to maximize API validation constraints and testing capabilities[cite: 1].
 ### 🌍 [Pro Planet Person](https://github.com/Vibhanshusoni/ProPlanetPerson)
-> 🌱 Instagram-style eco app with Firebase backend, Google Authentication, and an eco-leaderboard system promoting sustainable living.
+> **Tech Stack:** Java, kotlin, firbase database, firebase login-logout,firebase OAuth2[cite: 1]
+* 🌱 Instagram-style eco app with Firebase backend, Google Authentication, and an eco-leaderboard system promoting sustainable living.
+* also has shopping feature like amazon with large data base and payment process.
 
 ---
 
