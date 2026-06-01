@@ -85,9 +85,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-m6lc4be5p-vibhanshusonis-projects.vercel.app/api/top-langs/?username=Vibhanshusoni&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
-</p>
+</p> -->
 
 ---
 ## ✨ Sacondary ID
@@ -95,18 +95,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu054&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshu054&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
-</p>
+</p> -->
 
 ---
 ---
 
 ## ✨ Fun Touch  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vibhanshusoni&theme=darkhub&no-bg=true&no-frame=true&margin-w=5"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
