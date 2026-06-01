@@ -43,7 +43,7 @@
 ---
 
 ## 💼 Projects  
-### 🏫 [College Management System](https://github.com/Vibhanshusoni/CollegeManagementSystem)
+### 🏫 [College Management System](https://github.com/Vibhanshusoni/College-Management-System)
 > **Tech Stack:** Java, Spring Boot, Spring Security, Spring Cloud, Eureka, OpenFeign, JWT, MySQL, Liquibase, Swagger, Docker, Maven
 * Built a complete microservices-based backend system managing domain services for authentication, users, courses, faculty, students, attendance, library, departments, and dashboards.
 * Implemented secure REST APIs with JWT authentication, API Gateway routing, Eureka service discovery, and OpenFeign inter-service communication[cite: 1].
